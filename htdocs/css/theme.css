@@ -1,0 +1,7 @@
+/* Website theme */
+:root {
+    --bg: linear-gradient(white, azure); /* Background */
+    --text-color: #333; /* Text color */
+    --text-font: Arial, Helvetica, sans-serif; /* Text font */
+    --border: #333; /* Border color */
+}
