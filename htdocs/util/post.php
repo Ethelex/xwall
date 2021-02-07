@@ -11,4 +11,4 @@ if (mysqli_query($conn, $sql)) {
     echo '<font color="red">' . mysqli_error($conn) . '</font>';
 }
 
-header('Location: /');
+header('Location: ../');
